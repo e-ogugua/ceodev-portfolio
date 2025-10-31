@@ -234,3 +234,25 @@ For technical issues or questions about the codebase:
 - Check the changelog for recent updates
 
 Developed by CEO – Chukwuka Emmanuel Ogugua
+
+## Screenshots
+
+Add a hero screenshot here for quick visual context.
+
+![Hero Screenshot](./public/screenshot-hero.png)
+
+## Roadmap
+
+Track progress and upcoming work in the Roadmap:
+https://github.com/e-ogugua/ceodev-portfolio/issues?q=is%3Aissue+Roadmap
+
+## Ecosystem Links
+- Portfolio Hub: https://ceodev.vercel.app/
+- EmmanuelOS: https://github.com/e-ogugua/emmanuelos
+- Workflow Hub: https://github.com/e-ogugua/workflow-hub
+- FinanceFlow Pro: https://github.com/e-ogugua/financeflow-pro
+- PoshPOULE ERP: https://github.com/e-ogugua/PoshPOULE-Farms-suite
+
+## Links
+- Releases: https://github.com/e-ogugua/ceodev-portfolio/releases
+- Security Policy: ./SECURITY.md
